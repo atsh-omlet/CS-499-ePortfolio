@@ -11,8 +11,9 @@ demonstrates my ability to design and integrate an efficient algorithmic solutio
 
 ## Event Tracker Dashboard with Filtered and Unfiltered Events
 
-<img width="154" height="315" alt="image" src="https://github.com/user-attachments/assets/4a55fd89-25ca-4733-95c1-8b50c9180976" />
-<img width="152" height="314" alt="image" src="https://github.com/user-attachments/assets/962113f6-5de2-4700-9211-5168a7035cea" />
+<img width="154" height="315" alt="image" src="https://github.com/user-attachments/assets/22539a25-eefd-4e58-b084-d22f39612ebe" />
+
+<img width="152" height="314" alt="image" src="https://github.com/user-attachments/assets/85e7a893-082b-4666-8530-89696897cfbd" />
 
 ---
 
@@ -42,10 +43,8 @@ While working on the enhancements, I faced challenges while trying to adapt the 
 ---
 
 ## Links to Code
-[Original Code](https://github.com/atsh-omlet/EventTracker/tree/archive/original-state/app/src/main/java/com/cs360/eventtrackeratsushi)
-
-
-[Enhanced Code](https://github.com/atsh-omlet/EventTracker/tree/artifact2/app/src/main/java/com/cs360/eventtrackeratsushi)
+- [Original Code](https://github.com/atsh-omlet/EventTracker/tree/archive/original-state/app/src/main/java/com/cs360/eventtrackeratsushi)
+- [Enhanced Code](https://github.com/atsh-omlet/EventTracker/tree/artifact2/app/src/main/java/com/cs360/eventtrackeratsushi)
 
 ---
 
