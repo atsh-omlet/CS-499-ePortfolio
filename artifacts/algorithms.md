@@ -4,7 +4,7 @@
 
 ## Artifact Overview
 
-This artifact builds upon the Event Tracker application, enhanced in the previous artifact and refactored to **MVVM**. This artifact enhances the application by implementing a **dynamic search algorithm** that allows the user to filter and find specific events by searching for the event title. This artifact is included because it 
+This artifact builds upon the Event Tracker application, enhanced in the previous artifact, and refactored to **MVVM**. This artifact enhances the application by implementing a **dynamic search algorithm** that allows the user to filter and find specific events by searching for the event title. This artifact is included because it 
 demonstrates my ability to design and integrate an efficient algorithmic solution to a real-world problem. 
 
 ---
@@ -12,7 +12,6 @@ demonstrates my ability to design and integrate an efficient algorithmic solutio
 ## Event Tracker Dashboard with Filtered and Unfiltered Events
 
 <img width="154" height="315" alt="image" src="https://github.com/user-attachments/assets/22539a25-eefd-4e58-b084-d22f39612ebe" />
-
 <img width="152" height="314" alt="image" src="https://github.com/user-attachments/assets/85e7a893-082b-4666-8530-89696897cfbd" />
 
 ---
