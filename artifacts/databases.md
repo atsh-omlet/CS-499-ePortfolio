@@ -45,10 +45,8 @@ One major challenge I faced this week while working on the artifact was actually
 ---
 
 ## Links to Code
-[Original Code](https://github.com/atsh-omlet/EventTracker/tree/archive/original-state/app/src/main/java/com/cs360/eventtrackeratsushi)
-
-
-[Enhanced Code](https://github.com/atsh-omlet/EventTracker/tree/artifact3/app/src/main/java/com/cs360/eventtrackeratsushi)
+- [Original Code](https://github.com/atsh-omlet/EventTracker/tree/archive/original-state/app/src/main/java/com/cs360/eventtrackeratsushi)
+- [Enhanced Code](https://github.com/atsh-omlet/EventTracker/tree/artifact3/app/src/main/java/com/cs360/eventtrackeratsushi)
 
 ---
 
