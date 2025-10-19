@@ -47,4 +47,4 @@ While working on the enhancements, I faced challenges while trying to adapt the 
 
 ---
 
-[⬅ Back to Software Engineering and Design](./software-engineering.md) | [Next ➡ Databases](./database.md)
+[⬅ Back to Software Engineering and Design](./software-engineering.md) | [Next ➡ Databases](./databases.md)
