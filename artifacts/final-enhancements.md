@@ -4,8 +4,7 @@
 ## Dynamic Header
 Previously, all events were displayed in the dashboard consecutively. This made it difficult to differentiate between events from different dates. To resolve this, I implemented an algorithm in the `EventAdapter` to iterate over events in the `displayedItem` list and insert a header before an event if its date is different from the preceding event. This process is executed each time the `displayedItem` list is reconstructed, ensuring the headers are inserted dynamically as the dashboard updates.
 
-<img width="152" height="328" alt="image" src="https://github.com/user-attachments/assets/8de231d4-32e3-4db7-b1a1-62fd6fb0442e" />
-
+<img width="144" height="311" alt="image" src="https://github.com/user-attachments/assets/af2f28eb-7028-4dd8-9311-b831eedeac40" />
 
 ---
 
