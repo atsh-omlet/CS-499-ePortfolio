@@ -56,10 +56,8 @@ I also became more familiar with **Android components** like `ViewModel` and `Li
 One main challenge was restructuring the application without breaking it, since the Activities were tightly coupled to business logic. 
 
 ## Links to Code
-[Original Code](https://github.com/atsh-omlet/EventTracker/tree/archive/original-state/app/src/main/java/com/cs360/eventtrackeratsushi)
-
-
-[Enhanced Code](https://github.com/atsh-omlet/EventTracker/tree/artifact1/app/src/main/java/com/cs360/eventtrackeratsushi)
+- [Original Code](https://github.com/atsh-omlet/EventTracker/tree/archive/original-state/app/src/main/java/com/cs360/eventtrackeratsushi)
+- [Enhanced Code](https://github.com/atsh-omlet/EventTracker/tree/artifact1/app/src/main/java/com/cs360/eventtrackeratsushi)
 
 ---
 
