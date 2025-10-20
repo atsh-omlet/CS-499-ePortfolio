@@ -24,7 +24,7 @@ A `NotificationHelper` class was added to schedule and cancel notifications by s
 
 Further enhancements include adding an app icon, making modifications to the dashboard appearance, and improving the file structure of the project. The newest version of the Event Tracker application, after all capstone enhancements and further improvements, can be found here:
 
-[View Final Application](https://github.com/atsh-omlet/EventTracker/tree/main/app/src/main/java/com/cs360/eventtrackeratsushi)
+[View Final Application](https://github.com/atsh-omlet/EventTracker/tree/develop/app/src/main/java/com/atsushi/event_tracker)
 
 ---
 
